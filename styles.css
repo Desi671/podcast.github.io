@@ -22,6 +22,9 @@ header {
     display: inline-block;
     line-height: 42px;
 }
+.world {
+    text-decoration: line-through;
+}
 .punto {
     color: #0000EC;
 }
@@ -294,6 +297,9 @@ i {
         display: inline-block;
         line-height: 42px;
     }
+    .world {
+        text-decoration: line-through;
+    }
     .punto {
         color: #0000EC;
     }
@@ -554,6 +560,9 @@ h4 {
         color: #060A24;
         display: inline-block;
         line-height: 42px;
+    }
+    .world {
+        text-decoration: line-through;
     }
     .punto {
         color: #0000EC;
